@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'ETS-Pre-Interview'
+rootProject.name = 'ETS-Pre-Interview-master'
